@@ -11,6 +11,7 @@
 ![issus](https://img.shields.io/github/issues/labibkhanofficialbd/Copa-America)
 ![forks](https://img.shields.io/github/forks/labibkhanofficialbd/Tic-Tac-Toe?color=4DC71F)
 ![stars](https://img.shields.io/github/stars/labibkhanofficialbd/Tic-Tac-Toe?color=4DC71F)
+![Netlify Status](https://api.netlify.com/api/v1/badges/aca9f972-fbbd-4edc-a0e6-818b4aa2d90c/deploy-status)](https://app.netlify.com/sites/webtictactoe/deploys)
   
 </h3>
 
