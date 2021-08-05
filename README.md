@@ -27,6 +27,7 @@ Tic Tac Toe is one of the most funniest game.
     
 ![HTML5](https://img.shields.io/badge/-HTML5-1A1B27?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-1A1B27?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-1A1B27?style=flat&logo=javascript&labelColor=252526)
 
 
 ## Color Reference
