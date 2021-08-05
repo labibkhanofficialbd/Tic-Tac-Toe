@@ -7,10 +7,10 @@
 
 <h3 align="center">
     
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?color=4DC71F)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+![MIT License](https://img.shields.io/github/license/labibkhanofficialbd/Tic-Tac-Toe?color=4DC71F)
 ![issus](https://img.shields.io/github/issues/labibkhanofficialbd/Copa-America)
-![forks](https://img.shields.io/github/forks/labibkhanofficialbd/Copa-America?color=4DC71F)
-![stars](https://img.shields.io/github/stars/labibkhanofficialbd/Copa-America?color=4DC71F)
+![forks](https://img.shields.io/github/forks/labibkhanofficialbd/Tic-Tac-Toe?color=4DC71F)
+![stars](https://img.shields.io/github/stars/labibkhanofficialbd/Tic-Tac-Toe?color=4DC71F)
   
 </h3>
 
