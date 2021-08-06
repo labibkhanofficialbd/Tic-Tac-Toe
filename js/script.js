@@ -100,7 +100,7 @@ function selectWinner(){ //if the one of following winning combination match the
             resultBox.classList.add("show");
             playBoard.classList.remove("show");
         }, 700); //1s = 1000ms
-        wonText.innerHTML = `Player <p>${playerSign}</p> won the game!`; //displaying winning text with passing playerSign (X or O)
+        wonText.innerHTML = `Player <p>${playerSign}</p> Won The Game!`; //displaying winning text with passing playerSign (X or O)
     }else{ //if all boxes/element have id value and still no one win then draw the match
         if(getIdVal(1) != "" && getIdVal(2) != "" && getIdVal(3) != "" && getIdVal(4) != "" && getIdVal(5) != "" && getIdVal(6) != "" && getIdVal(7) != "" && getIdVal(8) != "" && getIdVal(9) != ""){
             runBot = false; //passing the false boolen value to runBot so bot won't run again

@@ -2,13 +2,13 @@
 *{
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  /* box-sizing: border-box; */
   font-family: 'Poppins', sans-serif;
 }
-::selection{
+/* ::selection{
   color: #fff;
   background:#5227ec;
-}
+} */
 body{
   background:#5227ec;
 }
@@ -214,4 +214,26 @@ header{
   outline: none;
   cursor: pointer;
   transition: all 0.3s ease;
+}
+
+@media only screen and (max-width:688px){
+  body{
+    background-color: #5227ec;
+  }
+  .select-box{
+    width: 70%;
+  }
+  .play-board{
+    width: 70%;
+  }
+  .result-box{
+    width: 70%;
+  }
+  .result-box .won-text{
+    flex-wrap: wrap;
+  }
+  /* .result-box .won-text p{
+    margin: 0;
+    display: block;
+  } */
 }
